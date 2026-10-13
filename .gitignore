@@ -1,2 +1,5 @@
 *.md
+*.pdf
 !README.md
+datasheet/
+*backup/
