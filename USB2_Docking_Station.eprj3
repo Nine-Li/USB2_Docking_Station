@@ -31,8 +31,8 @@
         "name": "主板",
         "board": "66743770fd3e6fe9",
         "source": "",
-        "version": "1791887575216",
-        "updateTime": 1791887575216
+        "version": "1791952675109",
+        "updateTime": 1791952675109
       }
     },
     "sheets": {
@@ -42,8 +42,8 @@
         "schematic_uuid": "016353f8d68a4686",
         "zIndex": 1,
         "source": "",
-        "version": "1791887575216",
-        "updateTime": 1791887575216
+        "version": "1791952675109",
+        "updateTime": 1791952675109
       }
     },
     "pcbs": {
@@ -53,8 +53,8 @@
         "board": "66743770fd3e6fe9",
         "parent_uuid": "",
         "source": "",
-        "version": "1791812948562",
-        "updateTime": 1791812948562
+        "version": "1791953228995",
+        "updateTime": 1791953228995
       }
     },
     "panels": {
