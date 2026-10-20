@@ -1,5 +1,6 @@
 *.md
 *.pdf
+[Gg]erber*
 !README.md
 datasheet/
-*backup/
+*[Bb]ackup/
