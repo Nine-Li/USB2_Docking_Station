@@ -1,5 +1,7 @@
 *.md
 *.pdf
+*.txt
+*.zip
 [Gg]erber*
 !README.md
 datasheet/
