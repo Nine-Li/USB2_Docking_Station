@@ -2,6 +2,7 @@
 *.pdf
 *.txt
 *.zip
+*.png
 [Gg]erber*
 !README.md
 datasheet/
